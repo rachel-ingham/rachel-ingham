@@ -10,7 +10,7 @@ I am a proud Army spouse, love reading on my Kindle while drinking a London Fog.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rachelingham&show_icons=true&include_all_commits=true)](https://github.com/rachelingham/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelingham&layout=compact)](https://github.com/rachelingham/github-readme-stats)
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on building my Professional Portfolio.
 - 🌱 I’m currently learning DAX Formulas and Dashboards in Power BI.
 - 💬 Ask me about how being a math teacher informs my approach to data analysis and visualization.
 - ⚡ Fun fact: I've lived in 4 different states in the last 5 years. 
