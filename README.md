@@ -1,8 +1,7 @@
 ## Hey 👋, This is Rachel Ingham
-[![Gmail Badge](https://img.shields.io/badge/-rachelgkeyser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachelgkeyser@gmail.com)](mailto:rachelgkeyser@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/rachelg-ingham/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/rachelg-ingham//)](https://www.linkedin.com/in/linkedin.com/in/rachelg-ingham//) [![Github Badge](https://img.shields.io/badge/-rachelingham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rachelingham/)](https://www.github.com/rachelingham/) <p align='left'>I am a Math Professor turned Data Enthusiast currently completing TripleTen's Business Intelligence Analytics Bootcamp. My favorite part of data analysis is exploration and finding hidden insights in large datasets. I am comfortable using Excel and Google Sheets, and am proficient in SQL queries and using R for statistical analysis. 
+[![Gmail Badge](https://img.shields.io/badge/-rachelgkeyser@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rachelgkeyser@gmail.com)](mailto:rachelgkeyser@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-linkedin.com/in/rachelg-ingham/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkedin.com/in/rachelg-ingham//)](https://www.linkedin.com/in/linkedin.com/in/rachelg-ingham//) [![Github Badge](https://img.shields.io/badge/-rachelingham-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rachelingham/)](https://www.github.com/rachelingham/) <p align='left'>I am mathematician and educator turned data enthusiast with over 10 years of experience bridging the gap between technical knowledge and human understanding. I recently completed TripleTen's Business Intelligence Analytics Bootcamp and am eager to join the ranks of Data Analyst's everywhere! My favorite part of data analysis is exploration and finding hidden insights in large datasets. I enjoying tackling a challenging problem where I work to uncover approachable answers to tough business questions. I am skilled using Excel and Google Sheets for data cleaning and exploration, as well as proficient in SQL queries and using R for statistical analysis. I am currently looking to find remote work as a Data Analyst with a dynamic company who is using data for good! 
 
-I am a proud Army spouse, love reading on my Kindle while drinking a London Fog. </p>
+I am a proud Army spouse and you can often find me reading on my Kindle while drinking a London Fog. I always appreciate a new person to expand my network, so please reach out on LinkedIn! </p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rachelingham alt=rachelingham /> </p>
@@ -10,7 +9,7 @@ I am a proud Army spouse, love reading on my Kindle while drinking a London Fog.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rachelingham&show_icons=true&include_all_commits=true)](https://github.com/rachelingham/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelingham&layout=compact)](https://github.com/rachelingham/github-readme-stats)
 
-- 🔭 I’m currently working on building my Professional Portfolio.
-- 🌱 I’m currently learning DAX Formulas and Dashboards in Power BI.
+- 🔭 I am currently a participant in Beta testing for InterviewMaster.AI, a SQL interview skills site by Dawn Choo. 
+- 🌱 I want to get more practice with DAX Formulas and Dashboards in Power BI.
 - 💬 Ask me about how being a math teacher informs my approach to data analysis and visualization.
 - ⚡ Fun fact: I've lived in 4 different states in the last 5 years. 
