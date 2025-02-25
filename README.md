@@ -3,12 +3,7 @@
 
 I am a proud Army spouse and you can often find me reading on my Kindle while drinking a London Fog. I always appreciate a new person to expand my network, so please reach out on LinkedIn! </p>
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=rachelingham alt=rachelingham /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=rachelingham&show_icons=true&include_all_commits=true)](https://github.com/rachelingham/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelingham&layout=compact)](https://github.com/rachelingham/github-readme-stats)
-
+## More About Me
 - 🔭 I am currently a participant in Beta testing for InterviewMaster.AI, a SQL interview skills site by Dawn Choo. 
 - 🌱 I want to get more practice with DAX Formulas and Dashboards in Power BI.
 - 💬 Ask me about how being a math teacher informs my approach to data analysis and visualization.
