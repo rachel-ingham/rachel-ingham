@@ -4,7 +4,7 @@
 I am a proud Army spouse and you can often find me reading on my Kindle while drinking a London Fog. I always appreciate a new person to expand my network, so please reach out on LinkedIn! </p>
 
 ## More About Me
-- 🔭 I am currently a participant in Beta testing for InterviewMaster.AI, a SQL interview skills site by Dawn Choo. 
+- 🔭 I am currently a participant in Beta testing for InterviewMaster.AI, a SQL interview skills site by Dawn Choo. https://www.interviewmaster.ai
 - 🌱 I want to get more practice with DAX Formulas and Dashboards in Power BI.
 - 💬 Ask me about how being a math teacher informs my approach to data analysis and visualization.
 - ⚡ Fun fact: I've lived in 4 different states in the last 5 years. 
